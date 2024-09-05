@@ -3,6 +3,7 @@
 ## Description
 
 Hello World Application
+Displays 'Hello World' in multiple languages to the console.
 
 ## Author
 
